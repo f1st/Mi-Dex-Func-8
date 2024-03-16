@@ -1,0 +1,26 @@
+{
+  "name": "mi-dex-func-8",
+  "version": "1.0.0",
+  "description": "Thực hiện giao dịch margin và cho vay:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1st/Mi-Dex-Func-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1st/Mi-Dex-Func-8/issues"
+  },
+  "homepage": "https://github.com/f1st/Mi-Dex-Func-8#readme",
+  "dependencies": {
+    "fest": "^0.12.1",
+    "mi-dex-func-4": "^1.0.0",
+    "mi-dex-func-5": "^1.0.0",
+    "mi-dex-func-6": "^1.0.0",
+    "mi-dex-func-7": "^1.0.0"
+  }
+}
